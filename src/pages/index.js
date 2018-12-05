@@ -7,6 +7,7 @@ import Image from '../components/image'
 const IndexPage = () => (
   <Layout>
     <h1>Hi people</h1>
+       <Link to="/new/">new</Link>
        <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )

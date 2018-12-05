@@ -6,7 +6,7 @@ import Image from '../components/image'
 
 const NewPage = () => (
   <Layout>
-    <h1>Hi people</h1>
+    <h1>New</h1>
        <Link to="/page-2/">New</Link>
   </Layout>
 )
