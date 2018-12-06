@@ -2,7 +2,7 @@
 title: "My second Blog post"
 description: This post is related to the gatsbyjs
 date: '2018-09-26'
-image: './images/gatsby-astronaut.png'
+image: 'gatsby-astronaut.png'
 ---
 
 Don't build a website with last decade's tech. The future of the web is mobile,
