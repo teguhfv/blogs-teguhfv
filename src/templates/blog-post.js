@@ -5,7 +5,7 @@ function BlogPost() {
     return (
         <Layout>
             <div>
-                hello post
+              lorem ipsum
         </div>
         </Layout>
     )
