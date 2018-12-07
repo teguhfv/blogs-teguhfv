@@ -15,7 +15,6 @@ function BlogPost() {
 export default BlogPost
 
 const query = graphql`
-
  query PostQuery($slug: String!) {
      markdownRemark(fields: { slug: { eq: $slug } }) {
        html
@@ -23,4 +22,5 @@ const query = graphql`
         title
         description
        }
-   }`
+   }
+`
